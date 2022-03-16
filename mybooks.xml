@@ -1,0 +1,26 @@
+<mytable>
+	<book1>
+		<title>Neuromancer</title>
+		<author1>William Gibson</author1>
+		<author2>NA</author2>
+		<genre>Sci-Fi</genre>
+		<published>1984</published>
+		<pages>271</pages>
+	</book1>
+	<book2>
+		<title>1 the Road</title>
+		<author1>Ross Goodwin</author1>
+		<author2>Kenric McDowell</author2>
+		<genre>Poetry</genre>
+		<published>2018</published>
+		<pages>171</pages>
+	</book2>
+	<book3>
+		<title>AI 2041: Ten Visions for Our Future</title>
+		<author1>Chen Qiufan</author1>
+		<author2>Kai-Fu Lee</author2>
+		<genre>Sci-Fi</genre>
+		<published>2021</published>
+		<pages>480</pages>
+	</book3>
+</mytable>
