@@ -2,7 +2,7 @@
 	"book1":{
 		"Title": "Neuromancer",
 		"Author1": "William Gibson",
-		"Author2": null,
+		"Author2": "NA",
 		"Genre": "Sci-Fi",
 		"Published": 1984,
 		"Page Count": 271
