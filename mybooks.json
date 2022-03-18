@@ -5,7 +5,7 @@
 		"Author2": "NA",
 		"Genre": "Sci-Fi",
 		"Published": 1984,
-		"Page Count": 271
+		"Pages": 271
 	},
 	"book2":{
 		"Title": "1 the Road",
@@ -13,7 +13,7 @@
 		"Author2": "Kenric McDowell",
 		"Genre": "Poetry",
 		"Published": 2018,
-		"Page Count": 171
+		"Pages": 171
 	},
 	"book3":{
 		"Title": "AI 2041: Ten Visions for Our Future",
@@ -21,6 +21,6 @@
 		"Author2": "Kai-Fu Lee",
 		"Genre": "Sci-Fi",
 		"Published": 2021,
-		"Page Count": 480
+		"Pages": 480
 	}
 }
